@@ -1,0 +1,25 @@
+#Nav{
+    background-color: #2ab27b;
+}
+#one,#two,#three{
+    background-color: #aa4a24;
+}
+#four,#seven,#eight{
+    background-color: #98cbe8;
+}
+#eleven,#twelve{
+    background-color: #ab00ab;
+}
+.btn{
+    text-align: center;
+    border-radius: 0.5rem;
+
+}
+#five,#six,#nine,#ten{
+    background-color: orange;
+}
+.btn:hover{
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 1rem;
+}
